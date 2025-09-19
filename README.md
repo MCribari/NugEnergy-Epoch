@@ -5,7 +5,7 @@ NugEnergy for Project Epoch
 - Energy Ticker.
 - Rage Tracker.
 
-Fully configurable use the following commands for options:
+Fully configurable using the following commands:
 - /nen unlock - Enables dragging the bar.
 - /nen lock - Locks the bar to it's current position.
 - /ne or /nugenergy - Toggles configuration window.
